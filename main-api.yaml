@@ -101,7 +101,7 @@ paths:
       tags:
         - Events
       parameters:
-        - $ref: "http://localhost/api/orgs/org_01k0v9atwfx7k19ypjg9nd8fw4/projects/prj_01k1dreqjdwd38ywq9se6jb27y/registry/apis/regapi_01k1jr76hadn93tjkmqgte5v1j/bundle.json#/components/schemas/EventId"
+        - $ref: "http://localhost/api/orgs/org_01k0v9atwfx7k19ypjg9nd8fw4/projects/prj_01k1dreqjdwd38ywq9se6jb27y/registry/apis/regapi_01k1txd3mn243nwswchwkrkwz4/bundle.json#/components/schemas/EventId"
       responses:
         "200":
           description: Success.
