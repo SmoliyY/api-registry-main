@@ -113,7 +113,7 @@ paths:
                 default_example:
                   $ref: "#/components/examples/GetSpecialEventResponseExample"
         "400":
-          $ref: '#/components/responses/BadRequest'
+          $ref: 'http://localhost/api/orgs/org_01k0v9atwfx7k19ypjg9nd8fw4/projects/prj_01k1dreqjdwd38ywq9se6jb27y/registry/apis/regapi_01k1txd3mn243nwswchwkrkwz4/bundle.json##/components/responses/BadRequest'
         "404":
           $ref: '#/components/responses/NotFound'
     patch:
